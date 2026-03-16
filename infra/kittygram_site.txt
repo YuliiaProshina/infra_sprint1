@@ -1,0 +1,5 @@
+IP: 158.160.219.174;
+name_taski: https://yapracforyuliahost.gotdns.ch/;
+name_kittygram: https://kittygramforpeople.myftp.biz/;
+login: admin;
+password: 12345;
